@@ -8,7 +8,7 @@ To install this script in your Google Sheets:
 
 1. Open the Google Sheets document where you want to use the script.
 2. From the top menu, click on `Tools > Script editor`. This will open a new tab with the Google Apps Script editor.
-3. Copy and paste the code from `generateRandomSheetData.gs` file into the editor.
+3. Copy and paste the code from `generateRandomSheetData.js` file into the editor.
 4. Save the script with a name of your choice.
 5. Close the script editor tab and go back to your Google Sheets document.
 
